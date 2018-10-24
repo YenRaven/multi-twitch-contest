@@ -1,5 +1,5 @@
 # multi-twitch-contest
-site: http://multi-twitch-contest.openode.io/
+openode service site: http://multi-twitch-contest.openode.io/
 
 *This services is provided as is, without any guarantee and may be discontinued without warning at any time.  **Use at your own risk.*** 
 
