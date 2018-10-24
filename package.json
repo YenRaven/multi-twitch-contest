@@ -1,0 +1,19 @@
+{
+  "name": "multi-twitch-random-user",
+  "version": "1.0.0",
+  "description": "Let user register for giveaway and return a random user when prompted.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Palmer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "0.0.0"
+  },
+  "devDependencies": {
+    "openode": "^1.6.8"
+  }
+}
