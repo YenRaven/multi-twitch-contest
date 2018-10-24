@@ -1,6 +1,8 @@
 # multi-twitch-contest
 site: http://multi-twitch-contest.openode.io/
 
+*This services is provided as is, without any guarantee and may be discontinued without warning at any time.  **Use at your own risk.*** 
+
 This project enables twitch streamers who are streaming together to enter their chats into the same contest drawing.  Chatters can then join the contest and one can be chosen at random from all who joined.
 
 ## Nightbot Commands
