@@ -4,7 +4,7 @@ const http = require('http');
 //const read = fs.readFileSync;
 const express = require("express");
 
-console.log("will serve on http port 80 and https port 443");
+console.log("will serve on http port 80");
 
 // Your app
 let app = express();
